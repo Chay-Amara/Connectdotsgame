@@ -1,1 +1,2 @@
 # Connectdotsgame
+It is a Python code for a Connect Four game using the pygame library. Connect Four is a two-player connection game in which the player and AI take turns dropping one colored disc from the top into a grid. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four discs of your color.This code allows you to play Connect Four against an AI opponent using a basic AI strategy implemented with the minimax algorithm. The AI tries to make optimal moves to win the game or block the human player from winning.
