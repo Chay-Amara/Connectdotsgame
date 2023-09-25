@@ -7,13 +7,13 @@ It is a Python code for a Connect Four game using the pygame library. Connect Fo
 you'll need to install the Pygame library. Open your command prompt (Windows) or terminal (macOS and Linux) and run this command:
 pip install pygame
 
-**Copy the Code:**
-Copy the code you provided and save it in a .py file, for example, problem2.py.
+**Clone the Code:**
+Clone the code provided.
 
 **Run the Game:**
 Open your command prompt or terminal and navigate to the directory where you saved problem2.py.
 Run the game by typing:
-python connect_four.py
+python problem2.py
 
 **Play the Game:**
 The game window should open. You can play against an AI opponent.
